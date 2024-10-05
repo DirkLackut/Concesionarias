@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Concesionarias\Concesionario_Autos\Concesionario_Autos\bin\Debug\net8.0\Concesionario_Autos.exe
+C:\Users\HP\Desktop\Concesionarias\Concesionario_Autos\Concesionario_Autos\bin\Debug\net8.0\Concesionario_Autos.deps.json
+C:\Users\HP\Desktop\Concesionarias\Concesionario_Autos\Concesionario_Autos\bin\Debug\net8.0\Concesionario_Autos.runtimeconfig.json
+C:\Users\HP\Desktop\Concesionarias\Concesionario_Autos\Concesionario_Autos\bin\Debug\net8.0\Concesionario_Autos.dll
+C:\Users\HP\Desktop\Concesionarias\Concesionario_Autos\Concesionario_Autos\bin\Debug\net8.0\Concesionario_Autos.pdb
+C:\Users\HP\Desktop\Concesionarias\Concesionario_Autos\Concesionario_Autos\obj\Debug\net8.0\Concesionario_Autos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Concesionarias\Concesionario_Autos\Concesionario_Autos\obj\Debug\net8.0\Concesionario_Autos.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Concesionarias\Concesionario_Autos\Concesionario_Autos\obj\Debug\net8.0\Concesionario_Autos.AssemblyInfo.cs
+C:\Users\HP\Desktop\Concesionarias\Concesionario_Autos\Concesionario_Autos\obj\Debug\net8.0\Concesionario_Autos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Concesionarias\Concesionario_Autos\Concesionario_Autos\obj\Debug\net8.0\Concesionario_Autos.dll
+C:\Users\HP\Desktop\Concesionarias\Concesionario_Autos\Concesionario_Autos\obj\Debug\net8.0\refint\Concesionario_Autos.dll
+C:\Users\HP\Desktop\Concesionarias\Concesionario_Autos\Concesionario_Autos\obj\Debug\net8.0\Concesionario_Autos.pdb
+C:\Users\HP\Desktop\Concesionarias\Concesionario_Autos\Concesionario_Autos\obj\Debug\net8.0\Concesionario_Autos.genruntimeconfig.cache
+C:\Users\HP\Desktop\Concesionarias\Concesionario_Autos\Concesionario_Autos\obj\Debug\net8.0\ref\Concesionario_Autos.dll
